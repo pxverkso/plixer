@@ -1,5 +1,5 @@
 # Plixer
-## A Simple 3 Part Clicker, can universally fit Cherry MX, Gateron, and other popular switches.
+## A Simple 3 Part Clicker Fidget, can universally fit Cherry MX, Gateron, and other popular switches.
 
 <img width="300" height="400" alt="20260708_172256" src="https://github.com/user-attachments/assets/0b280295-0828-4d78-a193-bf2804545407" />
 
