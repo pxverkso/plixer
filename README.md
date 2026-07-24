@@ -6,7 +6,13 @@
 <img width="300" height="223" alt="20260709_090459" src="https://github.com/user-attachments/assets/4d815866-0b15-4745-a7a3-506e07a61571" />
 <img width="218" height="297" alt="20260709_090428" src="https://github.com/user-attachments/assets/ec077ac9-60e4-410c-ad8c-487fe288c5fa" />
 
-Assembly: Print a Keycap and a housing, find any mechanical switch, click the mechanical switch into the housing, align the keycap to the switch and click the keycap into the swtich.
+## Why I made this
+Currently, the craze in the fidget community are clickers. I thought it would be fun to make a fully 3d printable, minimal clicker that both prints on any printer and fits snugly into any mechanical switch. 
+
+## How it works?
+It's pretty self explanatory but you just click it. 
+
+Assembly: Print a Keycap and a housing, find any mechanical switch (Yes any, if you dont want to buy one just steal one off of your keyboard), click the mechanical switch into the housing, align the keycap to the switch and click the keycap into the swtich.
 
 ### Check out the Onshape [Here!](https://cad.onshape.com/documents/6bd2329321fc837fd5d122a7/w/f14cd03b0ec8bb167e657df3/e/9bd3b5caee2b980000c76d14?renderMode=0&uiState=6a4f36d81093faaa4f32d255)
 ### Print on Printables [Here!](https://www.printables.com/model/1776755-plixer)
